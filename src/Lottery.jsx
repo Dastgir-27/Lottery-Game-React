@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { generateRandom,sum } from "./helper.js";
+import { generateRandom } from "./helper.js";
 import Ticket from "./Ticket.jsx";
 
 export default function Lottery({n = 4 ,winCondition }){
