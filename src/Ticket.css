@@ -1,0 +1,8 @@
+.ticket{
+    border: 1px solid pink;
+    border-radius: 14px;
+    width: 20rem;
+    color: palegreen;
+    font-size: 1.5rem;
+    padding-bottom: 1.2rem;
+}
